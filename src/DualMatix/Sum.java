@@ -30,6 +30,7 @@ public class Sum {
                 System.out.println();
             }
         }
+        System.out.println();
         return arr2;
     }
 }
